@@ -1,18 +1,19 @@
 # Authors
 
-Name Name:
-  name        : "aditya Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+primary:
+  name: "Aditya Nagar"
+  avatar: "profile.png"
+  bio: "Chemistry researcher working in f-block chemistry, lanthanide coordination, and separation chemistry."
+  email: "your-email@domain.com"
+
+  scholar: ""
+  orcid: ""
+  linkedin: ""
+  github: "nagaraditya2531"
+
+  research_interests:
+    - f-block chemistry
+    - Lanthanide complexes
+    - Separation chemistry
+    - Ionic liquids
